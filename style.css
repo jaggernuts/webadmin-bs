@@ -1,0 +1,95 @@
+aside{
+  position: relative;
+  width: 140px;
+}
+aside li{
+  text-align: center;
+}
+aside li a{
+  display: flex;
+  flex-direction: column;
+  text-decoration: none !important;
+  padding: 4px 12px;
+  font-size: 14px;
+}
+aside li a:hover{
+  color: unset !important;
+}
+aside li .mdi{
+  font-size: 1.4rem;
+}
+ul{
+  padding: 0;
+}
+li{
+  list-style: none;
+}
+aside li{
+  margin: 4px;
+  border-radius: 8px;
+}
+aside li:hover{
+  background: #c9d9ff;
+  color: rgb(30, 84, 210);
+}
+.template-content{
+  height: 100vh;
+}
+.user-photo{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: solid 2px #fff;
+  object-fit: cover;
+}
+.toggle-sidebar{
+  background: #044fff;
+  border-right: solid 1px #044fff;
+  cursor: pointer;
+}
+.sidebar-active{
+  background: #c9d9ff;
+}
+.sidebar-wrapper{
+  position: absolute;
+}
+.subtitle-sidebar{
+  margin: 1rem 0;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 10px;
+  font-weight: bold;
+}
+.subtitle-sidebar:hover{
+  background:unset;
+  color: unset;
+}
+.content-wrap{
+  width: 100%;
+}
+.user-info{
+  position: relative;
+  cursor: pointer;
+}
+.user-info .card{
+  position: absolute;
+  width: 100px;
+  right: 0;
+  z-index: 1;
+}
+.list-group li:first-child{
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-size: 11px;
+  margin-bottom: 5px;
+}
+.card{
+  margin-bottom: .5rem;
+  padding: .5rem;
+}
+.card-title{
+  font-size: 1.6rem;
+}
+.card-subtitle{
+  font-size: 1rem;
+}

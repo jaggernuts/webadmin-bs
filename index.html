@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+  <link rel="stylesheet" href="./node_modules/@mdi/font/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="template-content d-flex">
+    <aside id="sidebar" class="border-right">
+      <div class="sidebar-wrapper">
+        <li class="subtitle-sidebar"><span class="mdi mdi-emoticon-wink mdi-36px"></span></li>
+        <li class="mb-2 sidebar-active"><a><span class="mdi mdi-gauge-empty"></span>Dashboard</a></li>
+        <ul>
+          <li class="subtitle-sidebar text-secondary mt-4">Pasien</li>
+          <li><a href="#"><span class="mdi mdi-heart-pulse"></span>List Pasien</a></li>
+        </ul>
+        <ul>
+          <li class="subtitle-sidebar text-secondary mt-4">Dokter</li>
+          <li><a href="#"><span class="mdi mdi-calendar-multiselect"></span>Jadwal Kerja</a></li>
+        </ul>
+      </div>
+    </aside>
+    <div class="content-wrap">
+      <header class="border-bottom bg-primary text-white">
+        <nav class="navbar p-0">
+          <div id="toggleSidebar" class="toggle-sidebar py-2 px-3">
+            <span class="mdi mdi-menu mdi-24px"></span>
+          </div>
+          <div id="userInfo" class="user-info mr-3">
+            <img src="./assets/img/QEnnQ9i.jpg" alt="user-photo" class="user-photo">
+            <div class="card mt-1 shadow d-none">
+              <ul class="list-group">
+                <li class="text-secondary">opsi</li>
+                <li><a href="#"><span class="mdi mdi-logout mr-2"></span>Logout</a></li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </header>
+      <main class="p-2 bg-light h-100">
+        <div class="card-wrapper">
+          <div class="card">
+            <h1 class="card-title">Title</h1>
+            <h2 class="card-subtitle text-secondary">Subtitle</h2>
+          </div>
+          <div class="card">
+            <h1 class="card-title">Title</h1>
+            <h2 class="card-subtitle text-secondary">Subtitle</h2>
+          </div>
+          <div class="card">
+            <h1 class="card-title">Title</h1>
+            <h2 class="card-subtitle text-secondary">Subtitle</h2>
+          </div>
+          <div class="card">
+            <h1 class="card-title">Title</h1>
+            <h2 class="card-subtitle text-secondary">Subtitle</h2>
+          </div>
+        </div>
+      </main>
+      <footer></footer>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+  <script src="./script.js"></script>
+</body>
+</html>
