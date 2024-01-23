@@ -1,0 +1,212 @@
+[
+  {
+    "nama": "I Made Surya",
+    "tanggal_lahir": "1990-05-15",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Merdeka No. 123, Jakarta",
+    "no_telp": "081234567890"
+  },
+  {
+    "nama": "Ni Luh Ayu",
+    "tanggal_lahir": "1985-10-22",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Pahlawan No. 45, Surabaya",
+    "no_telp": "081345678901"
+  },
+  {
+    "nama": "Agus Pratama",
+    "tanggal_lahir": "1993-03-08",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Diponegoro No. 78, Bandung",
+    "no_telp": "081456789012"
+  },
+  {
+    "nama": "Dewi Kartika",
+    "tanggal_lahir": "1988-12-14",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Sudirman No. 56, Yogyakarta",
+    "no_telp": "081567890123"
+  },
+  {
+    "nama": "Hadi Saputra",
+    "tanggal_lahir": "1995-07-31",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Gajah Mada No. 34, Medan",
+    "no_telp": "081678901234"
+  },
+  {
+    "nama": "Citra Wardani",
+    "tanggal_lahir": "1992-02-18",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Thamrin No. 67, Jakarta",
+    "no_telp": "081789012345"
+  },
+  {
+    "nama": "Rudi Santoso",
+    "tanggal_lahir": "1987-09-25",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Merak No. 89, Surabaya",
+    "no_telp": "081890123456"
+  },
+  {
+    "nama": "Lina Setiawan",
+    "tanggal_lahir": "1998-04-03",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Veteran No. 12, Bandung",
+    "no_telp": "081901234567"
+  },
+  {
+    "nama": "Budi Prasetyo",
+    "tanggal_lahir": "1991-11-20",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Diponegoro No. 45, Yogyakarta",
+    "no_telp": "081012345678"
+  },
+  {
+    "nama": "Siti Nurhaliza",
+    "tanggal_lahir": "1986-06-07",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Asia Afrika No. 23, Jakarta",
+    "no_telp": "081123456789"
+  },
+  {
+    "nama": "Yoga Pratama",
+    "tanggal_lahir": "1994-08-17",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Pahlawan No. 56, Bandung",
+    "no_telp": "081234567890"
+  },
+  {
+    "nama": "Dian Permata",
+    "tanggal_lahir": "1989-01-24",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Sudirman No. 34, Surabaya",
+    "no_telp": "081345678901"
+  },
+  {
+    "nama": "Faisal Rahman",
+    "tanggal_lahir": "1997-04-11",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Thamrin No. 45, Jakarta",
+    "no_telp": "081456789012"
+  },
+  {
+    "nama": "Sari Indah",
+    "tanggal_lahir": "1990-09-28",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Merdeka No. 78, Yogyakarta",
+    "no_telp": "081567890123"
+  },
+  {
+    "nama": "Ricky Setiawan",
+    "tanggal_lahir": "1985-06-13",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Gajah Mada No. 23, Medan",
+    "no_telp": "081678901234"
+  },
+  {
+    "nama": "Eva Rachmawati",
+    "tanggal_lahir": "1993-03-05",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Diponegoro No. 67, Jakarta",
+    "no_telp": "081789012345"
+  },
+  {
+    "nama": "Arif Suryanto",
+    "tanggal_lahir": "1988-10-22",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Veteran No. 89, Bandung",
+    "no_telp": "081890123456"
+  },
+  {
+    "nama": "Nina Fitriani",
+    "tanggal_lahir": "1996-05-30",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Asia Afrika No. 12, Surabaya",
+    "no_telp": "081901234567"
+  },
+  {
+    "nama": "Hendro Wijaya",
+    "tanggal_lahir": "1991-12-18",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Pahlawan No. 67, Yogyakarta",
+    "no_telp": "081012345678"
+  },
+  {
+    "nama": "Ratna Susanti",
+    "tanggal_lahir": "1986-07-04",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Merak No. 45, Jakarta",
+    "no_telp": "081123456789"
+  },
+  {
+    "nama": "Yudi Prasetya",
+    "tanggal_lahir": "1995-02-21",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Sudirman No. 23, Surabaya",
+    "no_telp": "081234567890"
+  },
+  {
+    "nama": "Ani Fitriani",
+    "tanggal_lahir": "1990-09-15",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Thamrin No. 56, Jakarta",
+    "no_telp": "081345678901"
+  },
+  {
+    "nama": "Irfan Setiawan",
+    "tanggal_lahir": "1987-04-08",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Gajah Mada No. 12, Medan",
+    "no_telp": "081456789012"
+  },
+  {
+    "nama": "Dewi Wulandari",
+    "tanggal_lahir": "1993-11-24",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Merdeka No. 45, Bandung",
+    "no_telp": "081567890123"
+  },
+  {
+    "nama": "Arief Hermawan",
+    "tanggal_lahir": "1988-06-09",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Veteran No. 34, Yogyakarta",
+    "no_telp": "081678901234"
+  },
+  {
+    "nama": "Siti Rahayu",
+    "tanggal_lahir": "1992-03-16",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Asia Afrika No. 78, Jakarta",
+    "no_telp": "081789012345"
+  },
+  {
+    "nama": "Andi Kurniawan",
+    "tanggal_lahir": "1986-10-03",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Diponegoro No. 23, Bandung",
+    "no_telp": "081890123456"
+  },
+  {
+    "nama": "Rina Susanto",
+    "tanggal_lahir": "1998-05-10",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Pahlawan No. 89, Surabaya",
+    "no_telp": "081901234567"
+  },
+  {
+    "nama": "Bayu Pramana",
+    "tanggal_lahir": "1991-12-27",
+    "jenis_kelamin": "Laki-laki",
+    "alamat": "Jl. Sudirman No. 67, Jakarta",
+    "no_telp": "081012345678"
+  },
+  {
+    "nama": "Maya Sari",
+    "tanggal_lahir": "1986-07-22",
+    "jenis_kelamin": "Perempuan",
+    "alamat": "Jl. Thamrin No. 45, Yogyakarta",
+    "no_telp": "081123456789"
+  }
+]

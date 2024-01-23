@@ -1,0 +1,60 @@
+html,
+body{
+  height: 100%;
+}
+h1{
+  font-size: 24px;
+}
+p{
+  font-size: 12px;
+}
+label,
+.form-control,
+.btn-primary{
+  font-size: 14px;
+}
+img{
+  width: 300px;
+  object-fit: cover;
+  border-radius: .25rem;
+  display: none;
+}
+.hand-emoji{
+  font-size: 1.25rem;
+  display: none;
+}
+.container-fluid{
+  height: 100%;
+}
+.card{
+  display: flex;
+  justify-content: center;
+  height: 430px;
+  gap: 10px;
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+}
+.forgot-link{
+  font-size: 12px;
+  text-align: end;
+}
+@media (min-width: 720px) {
+  html,
+  body{
+    background: #ddd;
+  }
+  img{
+    display: block;
+  }
+  .hand-emoji{
+    display: block;
+  }
+  .container-fluid{
+    max-width: 700px ;
+  }
+  .card{
+    border: 1px solid #ddd;
+    box-shadow: #aeaeae 0 0 10px;
+  }
+}
